@@ -1,0 +1,1 @@
+start spibeatmixer_vocalwin32.exe 100 100 200 200 220 1 0 0 12 255 0 0 0 mywinclass mywintitle "begin.ahk" "end.ahk"
